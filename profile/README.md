@@ -12,7 +12,7 @@ Without rebuilding everything from scratch.
 
 Vivens Cloud is a **Cloud Runtime Engine (CRE)** designed to power modern SaaS platforms.
 
-It provides the core systems every product needs—identity, access, tenancy, storage, communication—unified into a single runtime layer.
+It provides the core systems every product needs-identity, access, tenancy, storage, communication-unified into a single runtime layer.
 
 So instead of building infrastructure again and again, you build directly on top of a system that’s already designed to scale.
 
